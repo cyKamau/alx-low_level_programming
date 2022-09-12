@@ -1,2 +1,2 @@
 #!/bin/bash
-C program that prints exactly
+C program that prints exactly line
