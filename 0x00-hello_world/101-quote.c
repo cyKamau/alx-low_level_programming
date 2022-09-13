@@ -1,13 +1,13 @@
-#include <stdio.h>
-
+#include <unistd.h>
 /**
-* main - print the string in the put function
-* Description: using the main function
-* this program prints "Programming is like building a multilingual puzzle
-* Return: 0
+* main - Entry point
+*
+* Return: Always 1 (Success)
 */
 int main(void)
 {
-	printf("and that piece of art is useful" - Dora Korpar, 2015-10-19\n");
-	return (0);
+	char str1 [] = "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n";
+
+	write(2, str1, 59);
+	return (1);
 }
