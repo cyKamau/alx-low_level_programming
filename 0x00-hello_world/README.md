@@ -1,2 +1,2 @@
 #!/bin/bash
-C program that prints the size of various types on the computer
+a script that generates the assembly code
