@@ -1,2 +1,2 @@
 #!/bin/bash
-a C program that prints exactly one 
+a C program that prints exactly 
