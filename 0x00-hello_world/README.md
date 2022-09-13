@@ -1,2 +1,2 @@
 #!/bin/bash
-C program that prints exactly line
+a script that compiles a C file but does not link
