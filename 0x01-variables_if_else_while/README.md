@@ -1,2 +1,2 @@
 #!/bin/bash
-source code in order to print the last digit of the number stored
+a program that prints the alphabet in lowercase
