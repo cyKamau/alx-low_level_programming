@@ -1,2 +1,2 @@
 #!/bin/bash
-a program that prints all possible combinations of single-digit number
+a program that prints all single digit numbers of base 10 starting from
