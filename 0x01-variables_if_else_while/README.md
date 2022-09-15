@@ -1,2 +1,2 @@
 #!/bin/bash
-a program that prints the alphabet in lowercase, and then in uppercase
+a program that prints the alphabet in lowercase, followed by a new line
