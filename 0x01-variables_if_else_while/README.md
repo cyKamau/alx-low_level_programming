@@ -1,2 +1,2 @@
 #!/bin/bash
-a program that prints all the numbers of base 16 in lowercase
+a program that prints all possible combinations of single-digit numbers
