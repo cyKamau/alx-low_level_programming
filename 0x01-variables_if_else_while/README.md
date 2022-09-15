@@ -1,2 +1,2 @@
 #!/bin/bash
-a program that prints the alphabet in lowercase
+a program that prints the alphabet in lowercases
