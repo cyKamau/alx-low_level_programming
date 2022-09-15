@@ -3,7 +3,7 @@
 * main - print if the number is positive, zero, or negative
 *
 * Description: using the main function
-* this program prints "Programming is positive, zero, or negative
+* this program prints "0, 1, 2, 3, 4, 5, 6, , 8, 9
 * Return: 0
 */
 int main(void)
@@ -15,8 +15,8 @@ int main(void)
 		putchar(c);
 		if (c != 57)
 		{
-			putchar(',')
-			putchar(' ')
+			putchar(',');
+			putchar(' ');
 		}
 	}
 	putchar('\n');

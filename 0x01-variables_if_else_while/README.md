@@ -1,2 +1,2 @@
 #!/bin/bash
-a program that prints all possible combinations of single-digit numbers
+a program that prints all possible combinations of single-digit number
