@@ -1,23 +1,38 @@
 #include <stdio.h>
+
 /**
-* main - print if the number is between 00 and 89
+* main - Prints numbers between 00 to 89.
 *
-* Description: using the main function
 * this program will print "Programming is between 00 and 89
-* Return: 0
+* Return: Always 0 (Success)
 */
 int main(void)
 {
-int d;
-for (d = 0 ; d < 100 ; d++)
+	int i, e;
+
+	i = 48;
+	e = 48;
+
+	while (e < 58)
 {
-	putchar((d / 10) + '0');
-	putchar((d % 10) + '0');
-if (d != 99)
-{
-	putchar(',');
-	putchar(' ');
-}
-putchar('\n');
-return (0);
+		i = 48;
+		while (i < 58)
+		{
+			if (e != i && e < i)
+			{
+				putchar(e);
+				putchar(i);
+				if (i == 57 && e == 56)
+				{
+					break;
+				}
+				putchar(',');
+				putchar(' ');
+			}
+			i++;
+		}
+		e++;
+	}
+	putchar('\n');
+	return (0);
 }

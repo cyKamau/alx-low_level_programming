@@ -1,2 +1,2 @@
 #!/bin/bash
-a program that prints all possible different combinations of two digit
+a program that prints all possible different combinations of two digits
