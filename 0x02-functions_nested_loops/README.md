@@ -1,2 +1,2 @@
 #!/bin/bash
-a program that prints 
+a program that prints putchar 
