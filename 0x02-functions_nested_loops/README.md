@@ -1,2 +1,2 @@
 #!/bin/bash
-a program that prints putchar 
+a function that prints the alphabet, in lowercase 
