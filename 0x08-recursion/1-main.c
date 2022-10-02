@@ -1,5 +1,7 @@
 #include "main.h"
 
+//this is a comment
+
 /**
  * main - check the code
  *
